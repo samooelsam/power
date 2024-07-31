@@ -1,0 +1,149 @@
+# Translation of Plugins - Image Widget - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Image Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-30 21:41:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Image Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://evnt.is/1aor"
+msgstr "https://evnt.is/1aor"
+
+#. Author of the plugin
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: views/widget-admin.php:38
+msgid "Link Title"
+msgstr "Link Title"
+
+#: views/widget-admin.php:31
+msgid "A recommended HTML5 related terms list is available <a href=\"http://microformats.org/wiki/existing-rel-values#HTML5_link_type_extensions\" target=\"_blank\">here</a>."
+msgstr "A recommended HTML5 related terms list is available <a href=\"http://microformats.org/wiki/existing-rel-values#HTML5_link_type_extensions\" target=\"_blank\">here</a>."
+
+#: views/widget-admin.php:29
+msgid "Related"
+msgstr "Related"
+
+#. Description of the plugin
+msgid "A simple image widget that uses the native WordPress media manager to add image widgets to your site."
+msgstr "A simple image widget that uses the native WordPress media manager to add image widgets to your site."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/image-widget/"
+msgstr "https://en-gb.wordpress.org/plugins/image-widget/"
+
+#: image-widget.php:408
+msgid "Custom"
+msgstr "Custom"
+
+#: image-widget.php:407
+msgid "Large"
+msgstr "Large"
+
+#: image-widget.php:406
+msgid "Medium"
+msgstr "Medium"
+
+#: image-widget.php:405
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: image-widget.php:404
+msgid "Full Size"
+msgstr "Full Size"
+
+#: views/widget-admin.php:51
+msgid "Size"
+msgstr "Size"
+
+#: views/widget-admin.php:40
+msgid "Link ID"
+msgstr "Link ID"
+
+#: views/widget-admin.deprecated.php:49 views/widget-admin.php:26
+msgid "Alternate Text"
+msgstr "Alternate Text"
+
+#: views/widget-admin.deprecated.php:46 views/widget-admin.php:76
+msgid "right"
+msgstr "right"
+
+#: views/widget-admin.deprecated.php:45 views/widget-admin.php:75
+msgid "center"
+msgstr "centre"
+
+#: views/widget-admin.deprecated.php:44 views/widget-admin.php:74
+msgid "left"
+msgstr "left"
+
+#: views/widget-admin.deprecated.php:43 views/widget-admin.php:73
+msgid "none"
+msgstr "none"
+
+#: views/widget-admin.deprecated.php:41 views/widget-admin.php:71
+msgid "Align"
+msgstr "Align"
+
+#: views/widget-admin.deprecated.php:38 views/widget-admin.php:66
+msgid "Height"
+msgstr "Height"
+
+#: views/widget-admin.deprecated.php:35 views/widget-admin.php:63
+msgid "Width"
+msgstr "Width"
+
+#: views/widget-admin.deprecated.php:32 views/widget-admin.php:44
+msgid "Open New Window"
+msgstr "Open New Window"
+
+#: views/widget-admin.deprecated.php:31 views/widget-admin.php:43
+msgid "Stay in Window"
+msgstr "Stay in Window"
+
+#: views/widget-admin.deprecated.php:28 views/widget-admin.php:36
+msgid "Link"
+msgstr "Link"
+
+#: views/widget-admin.deprecated.php:25 views/widget-admin.php:33
+msgid "Caption"
+msgstr "Caption"
+
+#: views/widget-admin.deprecated.php:17
+msgid "Add Image"
+msgstr "Add Image"
+
+#: views/widget-admin.deprecated.php:17
+msgid "Change Image"
+msgstr "Change Image"
+
+#: views/widget-admin.deprecated.php:13
+msgid "Image"
+msgstr "Image"
+
+#: views/widget-admin.deprecated.php:10 views/widget-admin.php:23
+msgid "Title"
+msgstr "Title"
+
+#: image-widget.php:78 lib/ImageWidgetDeprecated.php:66
+msgid "Insert Into Widget"
+msgstr "Insert Into Widget"
+
+#: image-widget.php:77 views/widget-admin.php:13
+msgid "Select an Image"
+msgstr "Select an Image"
+
+#. Plugin Name of the plugin
+#: image-widget.php:41
+msgid "Image Widget"
+msgstr "Image Widget"
+
+#: image-widget.php:38
+msgid "Showcase a single image with a Title, URL, and a Description"
+msgstr "Showcase a single image with a Title, URL, and a Description"
